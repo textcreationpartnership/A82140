@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the earthly flatform.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82140</idno>
+            <idno type="STC">Wing D663A</idno>
+            <idno type="STC">ESTC R174627</idno>
+            <idno type="EEBO-CITATION">45578319</idno>
+            <idno type="OCLC">ocm 45578319</idno>
+            <idno type="VID">172252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172252)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2621:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the earthly flatform.</title>
+               </titleStmt>
+               <extent>4, 3-4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Distances --  Measurement.</term>
+               <term>Longitude --  Early works to 1800.</term>
+               <term>Latitude --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:172252:1" rendition="simple:additions"/>
+            <p>A DECLARATION <hi>of the</hi> EARTHLY FLATFORM.</p>
+            <p>THe Center of the Earthly round is the North-Pole, the circles that run round about it, are the cir<g ref="char:EOLhyphen"/>circles of the breadth, who are taken from ten to ten Degrees, which I do alſo place for the Clima<g ref="char:EOLhyphen"/>tes and Parrelels, calling the firſt, from the North-Pole as far as on 80 degrees the Climate of the North-Pole, and the ſecond which followeth upon it, I cal the Northern Ice-Climate, and the third the Swedish-Climate, the fourth is called the English or Dutch-Climate, the fifth is cal<g ref="char:EOLhyphen"/>led the Italian or French-Climate, the ſixt the Aſirian, the ſeventh the Egiptian, the eigth is called the Happy Arabian-Climate, the ninth is called the Mores-Climate, the tenth being the firſt that lieth over againſt the South-ſide of the line I do cal the Braſilian-Climate, the eleventh which tendeth as far on 20 degrees over the South-ſide of the Midle-line, I cal the Peruvian, the twelfth <hi>I</hi> cal the Paraguayan-Climate, the thirtenth I cal the Chilian-Climate, the fourtenth the Wild-Climate, the fiftenth I cal the Magelanian-Climate, the ſixtenth the Unknow<g ref="char:EOLhyphen"/>ne-Climate, the ſevententh I cal the Southern-Ice-Climate, the eightenth being the laſt, tending unto the South-Pole, that I cal the Climate of the Southern-Pole, but the three laſt mentioned are needleſſe, becauſe the World is there abouts unknowne, and being alſo but a ſmal part, the Climates then being thus placed and circled out on the Eathly Flatform, then you can Immediatly See under what Climate every Land lieth.</p>
+            <p>The lines riſed from the Center to the out moſt ſide are the lines that ſhew the length of the Lands, they are likewi<g ref="char:EOLhyphen"/>ſe from ten to ten degrees, Placed on the Meredian of Netherland.</p>
+            <p>The length begins from the Pyke of Cannaria. Al other circles are plainly figured on the Earthly Flatform, ſo that I think it needleeſe to put them in here.</p>
+            <p>On the Earth there are three forts of convenienees fore dwelling conſidered, they are diſtinguiſhed with thoſe names, <hi>Paeriaeci, Antaeci,</hi> and <hi>Antipodes.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Periaeci</hi> are thoſe that dwel over againſt on other, in the ſame Parallel, and under the Meredian, with them <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ve Common the Seaſons of the year, as Winter, Summer, &amp;c. The temperateneſſe of the aire, the lengthe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and ſhortening of Days and nights, lying under one ſame Climate: but herein we are differing from them, our noon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir midnight, and their noon or midday is our midnight.</p>
+            <p>The <hi>Antaeci</hi> are thoſe that dwel under on ſame half Meridian, lying the one towards the South and the other to<g ref="char:EOLhyphen"/>wards she North, and the one dwelling as far from the midle-line as the other, with them we have Common the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oon and the midnight: but concerning the Seaſons of the year we differ from them, fore our Summer is theyr Win<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, and our longeſt dayes are theyr ſhorteſt ones.</p>
+            <p>The <hi>Antipodes</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thoſe that dwel right over againſt us on the other ſide of the Earth-Globe, and going with theyr feet againſt ours. With them we have al things turned or differing, the Seaſons of the year, dayes and nights, when in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ummer time the Sun affords us the longeſt dayes, then they have Winter and the longeſt nights; we have with them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Horiſon, but it is contrariely fore when the Sun, Moon and Starrs do riſe with us, then they go under with them.</p>
+            <p>Thoſe three ſorts of dwelling places you kan eaſily diſcern on the Earthly Flat-form, the uſe thereof being verry <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y. I wil demonſtrate it al by ſome exemples: whereby you May eaſily underſtand it.</p>
+            <div n="1" type="problem">
+               <head>THE FIRST PROBLEME.</head>
+               <lg>
+                  <l>Fore to Meaſure the diſtance of all places of the Earth on the Heavens-Mirrour.</l>
+                  <l>Fore this intention you may take upon the Earthly Mirrour anny place you deſire.</l>
+               </lg>
+               <div n="1" type="example">
+                  <pb n="2" facs="tcp:172252:2"/>
+                  <head>I. EXEMPLE.</head>
+                  <p>Deſireing to knowe how manny Dutch leagues that our Neatherland<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh <hi>Antaezi,</hi> or them that dwel over againſt us, are diſtant from us, they are thoſe that dwel 52 degrees over the South ſide of the line according as we dwel 52 de<g ref="char:EOLhyphen"/>grees over the North ſide, that is from us to the Southward 104 degrees, multiplie thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>04 degrees with 15 leagues, and there wil be 1560 leagues fore the diſtance. The Iſlands of <hi>Triſtan de Cunha,</hi> and <hi>Gonkalo de Alvaris</hi> are our nea<g ref="char:EOLhyphen"/>reſt <hi>Antaeci.</hi>
+                  </p>
+               </div>
+               <div n="2" type="example">
+                  <head>II. EXEMPEL.</head>
+                  <p>Deſireing to knowe how far Neatherland lieth from its <hi>Antipodes,</hi> they are thoſe that dwel 180 degrees to the Eaſt and to the Weſtward from us, as alſo as far to the South and to the Northward, which is neare about <hi>Selandia nova,</hi> and fore to knowe this diſtance, you muſt multiplie 180 degrees with 15 leagues, and there wil be 2700 leagues fore the diſtance.</p>
+               </div>
+               <div n="3" type="example">
+                  <head>III. EXEMPLE.</head>
+                  <p>Deſireing to knowe how manny leagues our <hi>Periaezi,</hi> thoſe that dwel 180 deg. due E. or Weſtward from us, upon the ſame Northern breadth of 52 degrees.</p>
+                  <p>Here follo with the doing.</p>
+                  <p>Lay the Dial A upon the circumferrence of the litle Mile quadrant, and that upon 52 degrees, and give then a ſigne or mark<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Dial A, then turn the ſaid dial with the ſigne upon the diameter, and See then how manny leagues the figne lieth off from the Centrum, you ſhal find near enough 9¼ leagues, which is fore on degree, the Parallel of 52 degrees you muſt multiplie with 180 degrees, and you ſhal find 1665 leagues fore the diſtance of our <hi>Paeriezi,</hi> them of <hi>Jedzo</hi> Eaſtly from <hi>Japonia</hi> are almoſt our <hi>Pariezi.</hi>
+                  </p>
+               </div>
+               <div n="4" type="example">
+                  <head>IV. EXEMPLE.</head>
+                  <p>Deſireing to knowe farther, ſome certain diſtances (over the Awry ſtrokes) as by Exemple the diſtance between <hi>Rotterdam</hi> and <hi>Jeruſalem,</hi> as alſo on what compaſſe ſtroke the City of <hi>Jeruſalem</hi> lieth from us; fore to doe this, you find <hi>Rotterdam</hi> on the Earth Mirrour to lye near enough upon the 52 degrees N. breadth, and 20 deg. length, and <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> on 32 deg. breadth, and 61 deg. length.</p>
+               </div>
+            </div>
+            <div n="2" type="problem">
+               <head>Here followeth the doing of it.</head>
+               <p>You muſt Place the on foot of the Compaſſis upon 32 Degrees, and the other upon 52 degrees on the dial P, being the difference of the breadth, with this opening you muſt place on foot of the compaſſis on the edge-ſide of the dial M, (which lying upon the Eaſt-line) and that upon 41 degrees off from the Centrum M, being the difference of the length, and the other foot rectangularly from the edge-ſide M to the Southward; then you muſt turn the dial P to and fro til the edge-ſide of the ſaid dial comes to touch the foot of the Compaſſis (See then how manny degrees the dial P lieth from the Eaſt or Southward, you ſhal find it to be 32 degrees 3 minutes, being near enough South-Eaſt by Eaſt that the Citty of <hi>Jeruſalem</hi> lieth from Holland.</p>
+               <p>Fore to find the diſtance, then you muſt width the Compaſſis take the with of latitude of 20 deg. on the dial M being th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> difference of the Compaſſis with this opening you muſt ſlide the compaſſis right Triangularly along by the dial M ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> placed one foot upon the Eaſt line, til the other foot comes to touch the edge-ſide of the dial P, (which lieth upon the c<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſe) and then you muſt further place one foot of the Compaſſis upon the dial P on the touching point, and open then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> other foot unto the Centrum of the dial P, and then finaly, you muſt place with this opening one foot of the Compaſſis in the Centrum of the dial M, and the other downewards, and ſee then how manny degrees the Compaſſis reaches upon the dial M, you ſhal find near enough 35 deg. 30 m. thoſe you muſt multiplie with 15 leag. and there wil be 532½ dutch leag. fore the diſtance, which is between <hi>Rotterdam</hi> and the Citty of <hi>Jeruſalem.</hi> Doe ſo in al other occaſions of this like.</p>
+               <p>Here followeth now who to knowe by an appointed time and place how late it is in al Lands and Townes of the who<g ref="char:EOLhyphen"/>le Earth.</p>
+               <div n="1" type="example">
+                  <head>I. EXEMPLE.</head>
+                  <p>
+                     <hi>Deſireing to knowe who late it is on the Iſland Zeylan, when at the ſame time at</hi> Rotterdam <hi>it is noon or</hi> 12 <hi>a clok.</hi>
+                  </p>
+                  <p>Fore the doing of it, you muſt lay the dial A or P upon 12 a clok, being very near our noon, and the dial B or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> you muſt lay upon <hi>Zeylan</hi> ſee then on what hour's and minutes the dial B or M lieth, and that ſhal be the true time the Iſland <hi>Zeylan.</hi>
+                  </p>
+               </div>
+               <div n="2" type="example">
+                  <head>II. EXEMPEL.</head>
+                  <p>
+                     <hi>When it is at</hi> Rome 11 <hi>a clok in the fore noon, how late is it then at</hi> Amſterdam?</p>
+                  <p>Fore to knowe this, you muſt lay the dial A or P upon <hi>Amſterdam,</hi> and the dial B or M over <hi>Rome,</hi> then you muſt turn both dials firmly, in ſuch manner that the dial B or M comes to lye upon 11 a clok, ſee then on what houre and minute the dial A or P lieth, which is the right time at <hi>Amſterdam.</hi>
+                  </p>
+               </div>
+               <div n="2" type="example">
+                  <pb n="3" facs="tcp:172252:2" rendition="simple:additions"/>
+                  <head>II. EXEMPLE.</head>
+                  <p>Deſiring to knowe on the Southern breadth of 40 degr. being on the 21 of June, at what time the Sun doth there riſe. Then you muſt place one foot of the Compaſſis in the <hi>Centrum</hi> of the dial B, and the other foot downewards, as far as on 23 deg. 30 min. being at the ſaid time the Declination of the Sun, with this opening you muſt place one foot of the Compaſſis on the dial B upon the complement of the Poles higth of 50 degr. and turn the dial B from the E. to the N. til the other foot of the Compaſſis comes triangularly to touch the Eaſt line of 6 a clock, ſee then upon what houre and min. the dial <hi>B</hi> lieth, you'l find neare enough in the morning 17 houres 30 min. being there the riſing of the Sun, the ſame is its going under in the evening at 4 a clock 35 min.</p>
+                  <p>
+                     <hi>Nota.</hi> You muſt knowe that if you wil, uſe the Heavens Flatform over the South-ſide of the <hi>Equinoctial Line,</hi> then you muſt take the houſe contrary to that as they are ſigned upon the Heavens Mirrour, fore that which is over the North-line 4 a clock in the morning, the ſame is Southly from the line 8 a clock in the morning, and ſo is the reſt accordingly.</p>
+               </div>
+               <div n="3" type="example">
+                  <head>III. EXEMPLE.</head>
+                  <p>Deſiring to knowe on the Northern breadth of 40 degrees, being the firſt of Auguſt, what time the great Dog <hi>Sy<g ref="char:EOLhyphen"/>rius</hi> ſhal riſe. Lay the Dial <hi>B</hi> over <hi>Syrius</hi> and the Dial A upon the firſt of Auguſt, then you muſt place one foot of the compaſſis upon the Center of the Dial <hi>B,</hi> and open the other as far as on 16 degr. 15 min. being the declination of <hi>Sy<g ref="char:EOLhyphen"/>rius,</hi> with this opening you muſt place one foot the compaſsis on the Dial B, upon the complement of the Poles higth of degrees. Then you muſt firmly turn both Dials alike from the <hi>E.</hi> to the S., till the other foot of the compaſ<g ref="char:EOLhyphen"/>ſis comes triangularly to touch the Eaſt line of 6 a clock. See then upon what houre and minutes the Dial lieth, you'l find neare enough 4 a clock 42 minutes. Fore to find its going under, you muſt firmly turn both dials alike from the Weſt to the Southward til the other foot of the compaſſis comes triangularly to touth the Weſt line of 6 a clock, ſee then upon what houre and min. the Dial A lieth, you'l find 2 a clock 48 minutes.</p>
+               </div>
+            </div>
+            <div n="3" type="problem">
+               <head>III PROBLEME.</head>
+               <head type="sub">How to find at al ſet times the Declination of the Sun upon the Heavens mirrour. Which is indeed verry proffitable for al Sea men, fore it ſerves not onely fore this preſent Age, but alſo fore the future Age of <hi>100</hi> years; when al Books that are made fore that purpoſſe shal be of no worth.</head>
+               <p>Fore to find the Declination of the Sun upon the Heavens-Mirrour, you muſt knowe that the Suns place is there ſet according to the two Jears, before and after the Leape-yeare, and that eſpecially upon the future Age, which doth almoſt differ a whole degree in the Sodiack with this preſent Age to the yeare 1700, and in the Suns Declination in March and September about 24 minutes. So that al Tables of the Suns Declination which are reckened out with ſuch a difficult calculation, ſhal after the yeare of 1700 be of no uſe or worth to anny Seaman; becauſe the yeare of 1700 muſt be a common yeare. Defiring then to knowe the Declination of the ſun upon ſome certain or ſet day in this preſent Age, then you muſt alwayes lay the dial A one daye farther then theſet day, and in the ſecond yeare after the Leap-yeare you muſt lay the dial upon the midſt of the day, but being the third yeare after the Leape-yeare, then you muſt lay the dial A on the firſt fourth part, being in the Sodiack about 15 min. backward.</p>
+               <p>But being the firſt yeare after the Leap-yeare, then you muſt lay the dial upon the third fourth part of the day, being verry neare 20 min. farther in the Sodiack, then in the third yeare.</p>
+               <p>And when it is a Leap-yeare, then you muſt lay the dial <hi>A</hi> upon the beginning of the day, til to the 28 of February; but being after the 28 of February, then you muſt al the yeare along lay the dial A upon the end of the day. And if you do truely underſtand and perform this, thou you wil at al times knowe the Declination of the Sun ſo perfect and exactly, as the Navigation requires. This is the Head thing I have to ſay of my Heavens-Mirrour.</p>
+               <div n="1" type="example">
+                  <head>I. EXEMPLE.</head>
+                  <p>Deſiring to knowe the Suns Declination on the 30th. day of April 1691 or 95 being the third yeare after the Leap-yeare, then you muſt lay the dial <hi>A</hi> upon the firſt of May, to wit upon the fourth part of the parck of that day. See then where the Dial dath cut or touch the Sodiack, you find it to be verry neare the 10th. degr. 15 min. (being at the ame time the true place of the Sun) that is 40 degr. 15 min. of ♈. Farther you muſt lay the Dial A over the 40 degr.
+<pb n="4" facs="tcp:172252:3"/>15 min. off from ♈., in the degrees of the Equinoctial or houre cirkle, then you muſt place one foot of the Compaſ<g ref="char:EOLhyphen"/>ſis on the dial A upon the greareſt Declination of the Sun, being 23 degrees 32 min. then you muſt open the other foot of the Compaſſis towards the Line of 6 a clock, to come triangularly with this opening of the compaſſis. Then you muſt place one foot of it in the Center of the Dial <hi>A,</hi> and turn the other downewards, and ſee where it falls, you find it to be verry neare 14 degrees 55 minutes, being at the ſaid time the Suns Declination.</p>
+               </div>
+               <div n="2" type="example">
+                  <head>II. EXEMPLE.</head>
+                  <p>Deſiring to knowe the Suns Declination on the 30th. of April 1688 or 92. being the firſt yeare after the Leap-yeare. Then you muſt lay the dial A on the firſt of May, upon the utmoſt of the days parck, ſee then where the dial A doth cut the Sodiack, you find it to be verry neare the eleventh degree of <hi>Taurus,</hi> being the true place of the ſet time, that is 41 degrees of ♈. Then you muſt further lay the dial A on 41 degrees of ♈. as before, and place one foot of the Com<g ref="char:EOLhyphen"/>paſſis on the dial A upon the greateſt Declination of the Sun, being 23 degr. 32 min. then you muſt open the other foot of the Compaſſis, til it comes rect-angularly to touch the Line of 6 a clock, with this opening of the Compaſſis, you muſt place one foot of it in the Center of the dial A, and the other you muſt turn downewards, ſeeing upon what de<g ref="char:EOLhyphen"/>gree and minute it falls, you'l find it to be verry neare 15 degr. and 10 min. being at the ſet time the true Declination of the Sun, differing litle or nothing with the wiſe and artificial calculation, do ſo at al other times, til to the yeare of 1700, but after that time you muſt lay the dial upon the ſet day, conſidering that this uſe is principally (as I told you) practiſed and formed upon the future Age, where upon we ſhal alſo give ſome exemples, which alſo wil ſerve fore the better underſtanding of the former.</p>
+               </div>
+               <div n="3" type="example">
+                  <head>III. EXEMPLE.</head>
+                  <p>Deſiring to knowe the Suns declination on the 30th day of April 1706. being the ſecond yeare after the Leape-yeare. Then you muſt at the ſame time lay the Dial upon the midle of the parck of the ſaid day, and ſee where the Dial A doth toutch the Sodiack, you'l find it to be verry neare the 9th degree and 30th minute of <hi>Taurus,</hi> being at the ſaid time the true-place of the Sun, differing almoſt a whole degree with the Yeare of 1686, fore the Sun is 39 degr. 30 minut. of ♈ Then you muſt further place the Dial A on 39 degrees 30 minutes of ♈. upon the Dial, in the ſame manner as I told you before, and then you muſt place one foot of the Compaſſis on the Dial A upon the greateſt declination of the Sun, being 23 degrees 32 min., then you muſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t open the other foot of the Compaſſis, till it comes triangularly to toutch the Line of 6 a clock: with this opening you muſt place one foot of Compaſſis in the <hi>Centrum</hi> of the Dial A, and the other downewards, ſee then on what degre and minute the foot ſtands, you'l find it to be verry neare 14 degrees 42 minutes, which is on the ſaid 30 day of April about noon, the declination of the Sun, differing alſo in the Suns declination with the Yeare of 1686 almoſt 18 min. So that by this exemple you may ſee that al Boocks and Ta<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es concerning this matter which are formerly made, wil altogether be in vain, and of no vallue, as ſoon as ever the Yeare of 1700 begins.</p>
+               </div>
+               <div n="4" type="example">
+                  <head>IV. EXEMPLE.</head>
+                  <p>Deſiring to knowe the Suns Declination in the yeare of 1710. whe the Sun is in the 18th. degr. of ♌. Then you muſt lay the dial A upon the 18 degr. you'l alſo ſee that the dial doth then lie on the eleventh day of Auguſt, about on the third fourth part of the parck of that day, being in the evening about 6 a clock. Then you muſt further lay the dial <hi>A</hi> upon the 42th. degree, from ♎. to <hi>Cancer</hi> upon the houre circkle, being on the 18th. degree of ♌, then you muſt place one foot of the Compaſſis on the dial <hi>A</hi> upon 23 degr. 32 min. as before, on then you muſt open the other foot, rectan<g ref="char:EOLhyphen"/>gularly unto the Line of 6 a clock, with this opening you muſt place one foot of the Compaſſis in the Centrum of the dial <hi>A,</hi> and then you muſt turn the other foot downewards, and ſee on what degree and minute it falls, you'l find it to be verry neare 15 degr. 30 min. being at the ſaid time the Declination of the Sun.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div n="3" type="example">
+                  <pb n="3" facs="tcp:172252:3"/>
+                  <head>III. EXEMPLE.</head>
+                  <p>
+                     <hi>When it is noon at</hi> Batavia <hi>in the Eaſt-Indies, what time is it then at</hi> Cabo de bona Eſperança?</p>
+                  <p>Fore to knowe this, you muſt lay the dial A or P upon the ſaid Cape, and the dial B or M on <hi>Batavia,</hi> then you muſt firmly turn both dials a like to the Weſtward, til the dial B or M lieth upon midday or noon, and ſee then whe<g ref="char:EOLhyphen"/>re the dial A or P lieth, which is then the true time at the ſaid Cape.</p>
+               </div>
+               <div n="4" type="example">
+                  <head>IV. EXEMPLE.</head>
+                  <p>Lay the dial A or P upon midday or noon (under which Meridian the Citty of <hi>Rotrerdam</hi> lieth near enough) and the dial B or M over <hi>Japonia,</hi> and then you muſt firmly turn both dials alike to the Eaſtward, til the dial A or P comes to ſtand at one of the clok, ſee then on what houre and m. the dial B or M lieth, you ſhall find in the evening 10 of the clok and 24 m. to be then the true time at <hi>Japonia.</hi>
+                  </p>
+               </div>
+               <div n="5" type="example">
+                  <head>V. EXEMPLE.</head>
+                  <p>
+                     <hi>When at</hi> Rotterdam <hi>it is</hi> 11 <hi>a clok in the fore noon, what time is it then at the Iſlands</hi> Amſterdam, Middelburg <hi>and</hi> Rotterdam? <hi>which do not lye far from one Meridian, as you may ſee upon the Terreſtre Planum.</hi>
+                  </p>
+                  <p>Lay the dial A or P upon midday or noon, being near enough over the Citty of <hi>Rotterdam,</hi> and the dial B or M over the ſaid Iſlands, and then you firmly turn both dials about, til the dial A or P comes to lye upon 11 a clok, ſee then upon what houre and m. the dial B or M lyeth, you ſhal find it to be upon the precedent day in the evening at 11 a clok and 36 m. By this exemple you may eaſily underſtand an apprehend the queſtion, how it can be, that two Perſons being born at one time, and died at one time, and that yet the one lived ſome dayes longer then the other.</p>
+               </div>
+               <div n="6" type="example">
+                  <head>VI. EXEMPLE.</head>
+                  <p>
+                     <hi>When at</hi> London <hi>is midday or noon, what time is it then at the outmoſt Weſt-corner of</hi> Tartaria?</p>
+                  <p>Lay the dial A or P upon <hi>London.</hi> and the dial B or M upon the Weſt corner of <hi>Tartaria,</hi> and turn firmly both dial alike upon midday or noon, ſee then where the dial B or M lieth you ſhal find it to be 8 m. paſt 10 a clok. whereby you may alſo underſtand the ſaid queſtion, and fore the better underſtandeng of it you may yet take this following exemple.</p>
+                  <p>Two ships being both bound to go out of Holland to new <hi>Sclandi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> the one going about by the Weſtward, and the o<g ref="char:EOLhyphen"/>ther taking its courſe about by the Eaſtward, and theyr difference shal be juſt one day, becauſe the firſt that goeth Weſt<g ref="char:EOLhyphen"/>ly about hath loſt hall a day, and the other that goeth Eaſtly about hath won half a day, fore that which goeth about to the Eaſtward countenances the day, and that which goeth Weſtwardly about doth countenance the night.</p>
+                  <p>
+                     <hi>The Distiuguation of the Earth.</hi>
+                  </p>
+                  <p>
+                     <hi>The Earth is diſtinguished into four parts, as</hi> Europa, Aſia, Africa, <hi>and</hi> America. <hi>The midle of the whole Earth con<g ref="char:EOLhyphen"/>tains in its roundneſſe</hi> 360 <hi>degr. that is</hi> 5400 <hi>dutch leagues. Every ones length and breadth is as followeth.</hi>
+                  </p>
+                  <p>
+                     <hi>Europa</hi> contains in its length 1200 dutch leagues, and in its breadth it contains 675 d. leagues.</p>
+                  <p>
+                     <hi>Aſia</hi> contains in its length 1800 dutch leagues, and its breadth 1275 dutch leagues.</p>
+                  <p>
+                     <hi>Africa</hi> contains in length 1200 dutch leagues, and in breadth 1050 dutch leagues.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>erica</hi> contains in its length 1950 dutch leagues, and is its breadth 1200 dutch leagues.</p>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ing in the former ſpoken of the biggneſſe of the Earth, ſo shal we here ſpeake of the biggneſſe of the Sea.</p>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> N. Sea contains in its length from <hi>Doevres</hi> and <hi>Calis</hi> to <hi>Hitland</hi> 200 d. leag. and in its breadth 120 d. leagues.</p>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Eaſt Sea is long 300 dutch leagues and in its breadth in containg 135 dutch leagues.</p>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <hi>Ice</hi> Sea from <hi>Hitland</hi> to <hi>Greenland,</hi> contains of 150 dutch leagues in length, and in breadth 1200 dutch leagues.</p>
+                  <p>The <hi>Atlantik</hi>-Sea, or great North-Sea from <hi>Ice-land</hi> to the unacquainted Southland is 1800 dutch leagues, in its length and in its breadth 13500.</p>
+                  <p>The <hi>Mediterranean</hi> Sea contains in its length 745 dutch leagues, and in its breadth 150.</p>
+                  <p>The <hi>Adriatik</hi> Sea or Gulph of <hi>Venice</hi> contains in its length 120 d. leag. and in its breadth 35.</p>
+                  <p>The <hi>Balck</hi>-Sea near <hi>Conſtantinople</hi> is in its length 210. d. leag. and in its breadth 120.</p>
+                  <p>The <hi>Perſian</hi> Sea, from <hi>Cabo Bonne Eſperanca</hi> to the Iſlands <hi>de las Velas</hi> is long 1875 d. leag. and the breadth, from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y of <hi>Ormus</hi> in <hi>Perſia</hi> to the unacquainted South-land, is 1200 dutch leagues.</p>
+                  <p>The <hi>Red</hi>-Sea is long 300 d. leag. and 45 leagues broad, the <hi>Perſian Inham</hi> or Bay near the citty of <hi>Ormus</hi> is in its length <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dutch leag. and in its breadth 90</p>
+                  <p>The <hi>Mardel Zur</hi> or Peacable Sea, being the biggeſt of al Seas, is in its length from the Iſlands <hi>de las Velas</hi> to the Citty <hi>Arica</hi> in <hi>Peru</hi> 2100 d. leag. and in its breadth from C. <hi>Houdo</hi> in the N. part of <hi>America</hi> to the unacquainted South-land <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> contains of 1500 d. leagues.</p>
+                  <p>And the <hi>Tartarian</hi>-Sea contains in its length 750 d. leagues, and in its breadth it contains 450.</p>
+                  <pb n="4" facs="tcp:172252:4"/>
+                  <p>All the ſaid Seas do join to one, as you may ſee in the Earthly round.</p>
+                  <p>The Earth being in its four parts reckoned together contains of 10350 d. leag.</p>
+                  <p>And all the Seas being reckoned together make out 15185 d. leagues.</p>
+                  <p>Here we wil in short terms communicate ſome notion, concerning the presſing or force of the Sea, and the opasſing Winds.</p>
+                  <p>Between <hi>Braſil</hi> and <hi>Angola,</hi> about on 11 Degrees Southern Breadth, there is the Sea from the 20th. of April <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o the 20. of July, forced towards the North-Weſt.</p>
+                  <p>And from the 20th. of July to the 20th. of October it is neither drive a to the one nor to the other fide.</p>
+                  <p>But from the 22th. of October to the 20th. of January is the Sea forced towards the South-Weſt.</p>
+                  <p>And again from the 20th. of January to the 20 of April doth the Sea there drive neither to the one nor the other place.</p>
+                  <p>And about the Strait of <hi>David</hi> ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is the forcing of the Sea from the Eaſt to the Southward, this is the reaſon which makes them that Sail from th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ce to England or France to wonder, becauſe their ſailing is don ſooner then they exſpected, according to theyr calculation.</p>
+                  <p>Concerning the Pasſing-Winds.</p>
+                  <p>From Netherland to the Cannarian Iſlands are the Winds changeable, Southly from the Canarian Iſlands there you have communly a N. E. Paſſing-Wind, and in the Months of January, February, and March, when you are upon 4 Degrees Northern breadth, where the South Eaſt and Eaſtly Paſſing-Winds doe begin, but in ſummer time it runs quite Southly, and alſo ſomewhat farther to the Northward.</p>
+                  <p>The ſaid North Eaſt Paſſing-Wind blowes throng unto the Weſt-Indys.</p>
+                  <p>On the Coaſt of <hi>Angola</hi> there you have continually ſouthly winds, and from <hi>Cabo de bone Eſperanca</hi> to St. <hi>Helena,</hi> and farther <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>to the Line, there you have commonly the wind about Souht Eaſily, and on the Coaſt of <hi>Braſil</hi> doth the wind from S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ptember to March commuly blowe Eaſtly, and from March to Semptemb. about S. Eaſtly.</p>
+                  <p>Between <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and 35 degr. ſouther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> breadth there you doe communly find the Wind changeable, and ſouthly from 35 degr, Southe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> breadth, there you have communly a Weſtly paſſing Wind throughout the whole yeare, but in the Months of January, February and March it is ſomewhat variable, and the farther you come the Southward, the har<g ref="char:EOLhyphen"/>der the Weſtly Paſſing wind bloweth.</p>
+                  <p>Eaſtly from <hi>Madagaſcar,</hi> about on 10 or 11 deg. Southern breadth, there you have communly throughout the whole Indian Sea, an Eaſtly paſſing Wind.</p>
+                  <p>Between the Line and 10 or 11 degr. Southern breadth, there doth the Wind, from April to September <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mmunly blowe S. E. or Eaſtly, and in the other half Yeare Weſtly, but in the Month of December and January it blowes vehe<g ref="char:EOLhyphen"/>mently.</p>
+                  <p>On the Coaſt of <hi>Arabia, Perſia, Suratte,</hi> and <hi>God,</hi> and every where Northly from the Line, there doth the Wind from April to October, communly blowe South-Weſtly with rough wether, which they do there reckon f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> theyr Winter, and continning the other half Year doth the wind communly blowe North-Eaſtly, being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Summer.</p>
+                  <p>On the Coaſt of of <hi>Java</hi> and the Iſlands Eaſtly from it there doth the wind, from November to April, communily blowe Weſtly, and in the other half Year Eaſtly.</p>
+                  <p>From <hi>Fava</hi> to the Northward along by the Eaſtſide of <hi>Sumatra,</hi> and farther unto <hi>Malacka,</hi> the doth there wind com<g ref="char:EOLhyphen"/>munly blowe <hi>S.</hi> Eaſtly from <hi>April</hi> to October, and the other half Yeare N. Weſtly.</p>
+                  <p>From <hi>Patama,</hi> and farther to <hi>Cina</hi> and <hi>Japan</hi> there doth the wind blowe Southly, from April to October, and in the other half Yeare Northly.</p>
+                  <p>Hereby you may in ſome manner underſtand and apprehend whence the preſſing force of the Sea riſeth, where nei<g ref="char:EOLhyphen"/>ther <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e nor Flood goeth, which is communly attributed to the Moon. Where the wind concurs with the Ebb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or Flood, there is the preſſing of the Sea ſo much ſtronger, and in the contrary, leſſe, whereof you may Eaſily tak notice.</p>
+                  <pb facs="tcp:172252:4"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
